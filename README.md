@@ -9,3 +9,7 @@ docker-compose build && docker-compose up -d
 ```
 
 3. Access on localhost:9000 or at <your_server>:9000
+
+## Note
+1. Launch the web app on port 9000
+2. 
